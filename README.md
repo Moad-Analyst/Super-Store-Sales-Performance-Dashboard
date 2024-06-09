@@ -19,7 +19,6 @@ This dashboard utilizes Pivot Tables and various chart types to visualize and an
 
 ![Screenshot 2024-04-26 210553](https://github.com/Moad-Analyst/Super-Store-Sales-Performance-Dashboard/assets/171948513/b5d2f6ab-8579-490e-9076-8a705d8d27d0)
 
-
 ### Data Source
 ---
 Superstore Sales Dataset: The primary dataset used for this analysis is 'Superstore Sales Dashboard.xlsx' file, Containing details about the customers' purchases.
